@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Netherborn_King.aternos.me",
-    "port": 21002,
+    "ip": "Netherborn_King.exaroton.me",
+    "port": 62285,
     "version": "",
     "try-creative": false
   },
