@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Netherborn_King.exaroton.me:62285",
+    "ip": "Netherborn_King.exaroton.me",
     "port": 62285,
     "version": "",
     "try-creative": false
